@@ -8,8 +8,3 @@ A **modern ReactJS v19 boilerplate** integrating **PrimeReact UI components** an
 - **Tailwind CSS**: Utility-first styling with minimal setup.   
 - **Developer-Friendly**: Clean, modular, and easy-to-use codebase.
 
-## Getting Started
-1. Clone the repo:
-   ```bash
-   https://github.com/saranzafar/reactjs-primereact-tailwind-boilerplate.git
-   ```
