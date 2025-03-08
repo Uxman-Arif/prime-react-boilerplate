@@ -7,6 +7,7 @@ function App() {
 
   return (
     <>
+      <h1 className='text-3xl text-gray-900 font-bold my-3 animate-pulse'>Reactjs + Prime React + Tailwind CSS</h1>
       <Button label='submit' icon='pi pi-check' />
     </>
   )
